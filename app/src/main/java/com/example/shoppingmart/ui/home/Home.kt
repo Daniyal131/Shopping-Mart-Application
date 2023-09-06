@@ -156,7 +156,7 @@ fun HomeScreen(
                             onNavigate.invoke(it.item.id)
                         }
                     }
-                    )
+                )
 
 
 //                val dismissState = rememberDismissState(
